@@ -33,7 +33,7 @@ Sou uma estudante no último ano do ensino médio apaixonada por programação e
 
 Se quiser trocar ideias sobre tecnologia, projetos ou desafios, estou por aqui! 😊
 
-📩 [helenafernanda78ko@gmail.com]
+📩 helenafernanda78ko@gmail.com
 
 ---
 
