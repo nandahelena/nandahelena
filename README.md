@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou a Fernanda!
+# 👋 Oi, eu sou a Fernanda!
 
 ## 💻 Sobre mim
 
@@ -10,16 +10,6 @@ Sou uma estudante do ensino médio apaixonada por programação e tecnologia! Es
 - Explorando interfaces responsivas, experiência do usuário e aplicações web dinâmicas.
 
 🎯 Meu objetivo é me tornar uma desenvolvedora full stack e aprofundar meu conhecimento em ciência da computação.
-
----
-
-## 📂 O que você encontra aqui?
-
-Aqui no meu GitHub, você vai encontrar:
-
-- 📝 **Projetos práticos** que refletem meu progresso no desenvolvimento web e em algoritmos.
-- 🎯 **Repositórios de estudos**, incluindo exercícios resolvidos e anotações sobre conceitos importantes.
-- 🚀 **Exploração de tecnologias**, como Vue.js, JavaScript, C++, Python e mais.
 
 ---
 
@@ -41,7 +31,7 @@ Aqui no meu GitHub, você vai encontrar:
 
 ## 📫 Como me encontrar?
 
-Se quiser trocar ideias sobre tecnologia, projetos ou desafios de programação competitiva, estou por aqui! 😊
+Se quiser trocar ideias sobre tecnologia, projetos ou desafios, estou por aqui! 😊
 
 📩 [helenafernanda78ko@gmail.com]
 
