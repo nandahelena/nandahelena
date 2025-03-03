@@ -4,9 +4,9 @@
 
 Sou uma estudante do ensino médio apaixonada por programação e tecnologia! Estou sempre em busca de aprender coisas novas e aprimorar minhas habilidades, principalmente no desenvolvimento web e em estruturas de dados.
 
-### 🚀 Atualmente estudando:
+### 🚀 Atualmente estudando/fazendo:
 - Vue.js, Node.js e estrutura de dados em C++ e Python.
-- Desenvolvendo o **DreamCode**, um projeto para ajudar competidores de programação.
+- Desenvolvendo projetos práticos para adquirir experiência e conhecimento.
 - Explorando interfaces responsivas, experiência do usuário e aplicações web dinâmicas.
 
 🎯 Meu objetivo é me tornar uma desenvolvedora full stack e aprofundar meu conhecimento em ciência da computação.
@@ -16,13 +16,13 @@ Sou uma estudante do ensino médio apaixonada por programação e tecnologia! Es
 ## 🛠️ Tecnologias que estou estudando/trabalhando:
 
 ### **Frontend:**
-- Vue.js, JavaScript, CSS (responsividade com media queries)
+- Vue.js, JavaScript, CSS, requisições com APIs
 
 ### **Backend:**
-- Node.js
+- Node.js, Banco de Dados
 
 ### **Lógica e Algoritmos:**
-- Python, C++
+- Python, C/C++
 
 ### **Ferramentas:**
 - Git, GitHub, VS Code
