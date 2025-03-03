@@ -2,7 +2,7 @@
 
 ## 💻 Sobre mim
 
-Sou uma estudante do ensino médio apaixonada por programação e tecnologia! Estou sempre em busca de aprender coisas novas e aprimorar minhas habilidades, principalmente no desenvolvimento web e em estruturas de dados.
+Sou uma estudante no último ano do ensino médio apaixonada por programação e tecnologia! Estou sempre em busca de aprender coisas novas e aprimorar minhas habilidades, principalmente no desenvolvimento web e em estruturas de dados.
 
 ### 🚀 Atualmente estudando/fazendo:
 - Vue.js, Node.js e estrutura de dados em C++ e Python.
