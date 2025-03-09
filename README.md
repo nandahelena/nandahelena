@@ -5,7 +5,7 @@ Sou uma estudante no último ano do ensino médio apaixonada por programação e
 
 ---
 ## 📫 Me contate
-[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:helenafernanda78ko@gmail.com)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=helenafernanda78ko@gmail.com)
 [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/nandaxzc)
 
 ## 🛠️ Linguagens e tecnologias
