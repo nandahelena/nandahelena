@@ -1,14 +1,14 @@
 # 👋 Oi, eu sou a Fernanda!
 
-## 💻 Sobre mim
+## Sobre mim
 Sou uma estudante no último ano do ensino médio apaixonada por programação e tecnologia. Estou sempre em busca de aprender coisas novas e aprimorar minhas habilidades, principalmente no desenvolvimento web e em estruturas de dados. Meu objetivo é me tornar uma **desenvolvedora full stack** e aprofundar meu conhecimento em ciência da computação. 
 
 ---
-## 📫 Me contate
+## Me contate
 [![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=helenafernanda78ko@gmail.com)
 [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/nandaxzc)
 
-## 🛠️ Linguagens e tecnologias
+## Linguagens e tecnologias
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3)
@@ -21,7 +21,7 @@ Sou uma estudante no último ano do ensino médio apaixonada por programação e
 ![C++](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![C](https://img.shields.io/badge/-C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
 
-### 🔧 **Ferramentas**
+### **Ferramentas**
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
