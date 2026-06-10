@@ -1,38 +1,83 @@
-# 👋 Oi, eu sou a Fernanda!
+<div align="center">
 
-## Sobre mim
-Sou uma estudante no último ano do ensino médio apaixonada por programação e tecnologia. Estou sempre em busca de aprender coisas novas e aprimorar minhas habilidades, principalmente no desenvolvimento web e em estruturas de dados. Meu objetivo é me tornar uma **desenvolvedora full stack** e aprofundar meu conhecimento em ciência da computação. 
+# Fernanda Helena Bezerra
 
----
-## Me contate
-[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=helenafernanda78ko@gmail.com)
-[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/nandaxzc)
+**Sistemas de Informação · Inteli — Instituto de Tecnologia e Liderança**
 
-## Linguagens e tecnologias
+Design de produto · Front-end · Documentação técnica
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3)
-![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
-![APIs](https://img.shields.io/badge/-APIs-0064A5?style=for-the-badge)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Banco de Dados](https://img.shields.io/badge/-Database-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![C](https://img.shields.io/badge/-C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-nandahelena-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/nandahelena)
+[![Email](https://img.shields.io/badge/Email-helenafernanda78ko@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:helenafernanda78ko@gmail.com)
 
-### **Ferramentas**
-![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github)
-![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+</div>
 
 ---
 
-## 📊 Estatísticas do GitHub
+## Sobre
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nandahelena&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nandahelena&layout=compact&theme=radical)
+Sou estudante de Sistemas de Informação na Inteli, onde os projetos acadêmicos são desenvolvidos em parceria com empresas reais. Meu trabalho fica na interseção entre front-end, UX/UI e documentação técnica — escrevo código e também penso sobre a experiência de quem vai usá-lo.
+
+No momento estou construindo um sistema web para digitalizar auditorias da corrida Red Bull 24 Horas e liderando a identidade visual do **SheTech**, hackathon feminino organizado pelo [Coletivo Grace Hopper](https://github.com/nandahelena) na Inteli.
 
 ---
 
+## Stack principal
+
+**Front-end**
+![React](https://img.shields.io/badge/-React-20232A?style=flat-square&logo=react)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
+
+**Design & UX**
+![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+![WCAG](https://img.shields.io/badge/-WCAG%20Accessibility-005A9C?style=flat-square)
+
+**Outros**
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Phaser.js](https://img.shields.io/badge/-Phaser.js-8338EC?style=flat-square)
+
+---
+
+## Projetos em destaque
+
+**RedRun** · *parceria Red Bull*
+Sistema web para digitalização de auditorias da competição Red Bull 24 Horas. Fui responsável pela documentação técnica completa (WAD), wireframes, User Stories com critérios Gherkin e diagramas UML de sequência.
+
+**SheTech Hackathon** · *Coletivo Grace Hopper / Inteli*
+Liderança de design de um hackathon feminino de tecnologia. Desenvolvi o sistema de identidade visual completo — logotipo, paleta, tipografia, materiais impressos e digitais — com direção estética "Soft Innovation" e narrativa sci-fi interativa.
+
+**Portfólio pessoal** · *Next.js + TypeScript*
+Portfólio front-end com foco em design editorial, acessibilidade WCAG, cursor customizado, filtros de categoria e animações de scroll-reveal.
+
+---
+
+## Reconhecimentos
+
+- 🏆 **Bolsa Behring Academy** — Top 4% entre 700+ candidatos
+- 🌎 **Latin American Leadership Academy (LALA)**
+- 🥈 **Menção Honrosa — Olimpíada Brasileira de Tecnologia (OBT)**
+
+---
+
+## Envolvimento
+
+**Coletivo Feminino Grace Hopper · Inteli**
+Conectando mulheres à tecnologia. Atuo na liderança de design e produção de materiais do coletivo.
+
+**Projeto Amparo**
+Voluntária em programação para comunidades vulneráveis.
+
+---
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nandahelena&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=6EE7C7&icon_color=6EE7C7)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nandahelena&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=6EE7C7)
+
+</div>
