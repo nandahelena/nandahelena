@@ -49,11 +49,3 @@ Atualmente, estou trabalhando em um sistema web para digitalizar auditorias da c
 ![WCAG](https://img.shields.io/badge/WCAG-005A9C?style=flat-square)
 
 ---
-
-### No que acredito
-
-Boas interfaces não são apenas bonitas: elas precisam ser compreensíveis, acessíveis e resolver problemas reais.
-
-Gosto de transformar ideias em produtos digitais que façam sentido para quem usa e para quem desenvolve.
-
-Se quiser conversar sobre tecnologia, design de produto ou projetos de impacto, fique à vontade para me chamar.
