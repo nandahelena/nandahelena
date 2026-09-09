@@ -1,73 +1,78 @@
-# Oi, eu sou a Fernanda 👋
+<h2>Oi, eu sou a Fernanda 👋</h2>
 
-Sou estudante de Sistemas de Informação na Inteli e gosto de transformar ideias em produtos digitais claros, funcionais e bem pensados.
+<p>
+  Estudante de Sistemas de Informação na
+  <a href="https://www.inteli.edu.br/">Inteli</a>.<br>
+  Desenvolvedora front-end, designer de produto e apaixonada por criar experiências digitais claras e acessíveis.
+</p>
 
-Meu trabalho fica entre desenvolvimento front-end, design de produto e documentação técnica. Gosto de entender o problema antes de escrever código — e de deixar as decisões do projeto tão organizadas quanto a interface.
-
-[LinkedIn](https://linkedin.com/in/nandahelena) · [Email](mailto:helenafernanda78ko@gmail.com)
-
----
-
-## No que estou trabalhando
-
-- Desenvolvendo um sistema web para digitalizar as auditorias da corrida Red Bull 24 Horas;
-- Liderando a identidade visual do SheTech Hackathon, do Coletivo Grace Hopper;
-- Construindo meu portfólio pessoal com Next.js e TypeScript;
-- Estudando acessibilidade, arquitetura de interfaces e desenvolvimento front-end.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-nandahelena-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/nandahelena)
+[![Email](https://img.shields.io/badge/Email-helenafernanda78ko%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:helenafernanda78ko@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-nandahelena-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/nandahelena)
 
 ---
 
-## O que você vai encontrar por aqui
+### Um pouco mais sobre mim
 
-Projetos que combinam código, design e documentação.
+```javascript
+const fernanda = {
+  formation: "Sistemas de Informação na Inteli",
 
-Gosto de trabalhar em produtos que precisam ser fáceis de usar, fáceis de manter e bem explicados — desde os wireframes e fluxos até a implementação final.
+  focus: [
+    "Front-end",
+    "Design de produto",
+    "Acessibilidade",
+    "Documentação técnica"
+  ],
+
+  code: [
+    "JavaScript",
+    "TypeScript",
+    "HTML",
+    "CSS",
+    "Python"
+  ],
+
+  tools: [
+    "React",
+    "Next.js",
+    "Tailwind CSS",
+    "Node.js",
+    "Figma",
+    "Git"
+  ],
+
+  currentlyWorkingOn: [
+    "Sistema web para auditorias da Red Bull 24 Horas",
+    "Identidade visual do SheTech Hackathon",
+    "Meu portfólio pessoal"
+  ],
+
+  interests: [
+    "Interfaces acessíveis",
+    "Experiência do usuário",
+    "Design systems",
+    "Produtos digitais com impacto"
+  ]
+};
+```
+
+### Tecnologias
+
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
 ---
 
-## Tecnologias
+Gosto de conectar tecnologia, design e comunicação para transformar problemas reais em produtos mais simples de entender e usar.
 
-`React` `Next.js` `TypeScript` `JavaScript` `Tailwind CSS`  
-`HTML` `CSS` `Node.js` `Python` `Git` `Figma`
-
----
-
-## Projetos em destaque
-
-### RedRun
-
-Sistema web criado para digitalizar auditorias da competição Red Bull 24 Horas.
-
-Atuei na documentação técnica, criação de wireframes, definição de User Stories, critérios de aceitação em Gherkin e diagramas UML de sequência.
-
-### SheTech Hackathon
-
-Projeto de identidade visual para um hackathon feminino de tecnologia organizado pelo Coletivo Grace Hopper na Inteli.
-
-Desenvolvi o conceito visual, logotipo, paleta de cores, tipografia e materiais para os ambientes físico e digital.
-
-### Portfólio pessoal
-
-Portfólio desenvolvido com Next.js e TypeScript, explorando design editorial, acessibilidade e interações de interface.
-
----
-
-## Além do código
-
-Faço parte do Coletivo Feminino Grace Hopper, onde contribuo com design e comunicação em iniciativas para aproximar mulheres da tecnologia.
-
-Também atuo como voluntária no Projeto Amparo, colaborando com atividades de programação para comunidades vulneráveis.
-
----
-
-## Reconhecimentos
-
-- Bolsa Behring Academy — selecionada entre os 4% melhores de mais de 700 candidatos;
-- Latin American Leadership Academy — LALA;
-- Menção Honrosa na Olimpíada Brasileira de Tecnologia.
-
----
-
-Se você gosta de tecnologia, design de produto ou projetos com impacto social, vamos conversar.
-
-[LinkedIn](https://linkedin.com/in/nandahelena) · [Email](mailto:helenafernanda78ko@gmail.com)
+Se quiser conversar sobre tecnologia, design de produto ou projetos de impacto, fique à vontade para me chamar.
