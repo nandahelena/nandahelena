@@ -32,28 +32,6 @@ const fernanda = {
     "CSS",
     "Python"
   ],
-
-  tools: [
-    "React",
-    "Next.js",
-    "Tailwind CSS",
-    "Node.js",
-    "Figma",
-    "Git"
-  ],
-
-  currentlyWorkingOn: [
-    "Sistema web para auditorias da Red Bull 24 Horas",
-    "Identidade visual do SheTech Hackathon",
-    "Meu portfólio pessoal"
-  ],
-
-  interests: [
-    "Interfaces acessíveis",
-    "Experiência do usuário",
-    "Design systems",
-    "Produtos digitais com impacto"
-  ]
 };
 ```
 
